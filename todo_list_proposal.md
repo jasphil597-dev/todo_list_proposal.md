@@ -47,6 +47,7 @@ Add/Edit Task Page
 ![image](./Screenshot%202024-12-07%20at%204.33.42 PM.png)
 ![image](./Screenshot%202024-12-07%20at%204.33.59 PM.png)
 ![image](./Screenshot%202024-12-07%20at%204.34.12 PM.png)
+![image](./Screenshot%202024-12-08%20at%2010.54.49 PM.png)
 
 ---
 
